@@ -1,5 +1,5 @@
 ---
-title: Ready to learn?
+title: Siap untuk Belajar Bersama?
 subtitle:
 widget: blank
 weight: 50
